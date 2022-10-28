@@ -1,0 +1,8 @@
+{
+  "extends": ["react-app", "react-app/jest", "prettier"],
+  "rules": {
+    "semi": ["error", "never"],
+    "requireForBlockBody": true,
+    "comma-dangle": "off"
+  }
+}
